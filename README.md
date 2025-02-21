@@ -13,7 +13,7 @@ The dataset used in this project is a movies dataset, which includes details abo
 The dataset contains columns such as budget, revenue, runtime, etc., but we mainly use the overview, genres, keywords, and director columns for building the recommendation system.
 
 How to load the dataset:
-	1.	Download the dataset from Kaggle Movies Dataset. or from this repository under the name of movies_csv
+	1.	Download the dataset from Kaggle Movies Dataset. or from this repository under the name of movie_dataset.csv
 	2.	Load the dataset into your Python environment:
  Setup
 
