@@ -27,7 +27,8 @@ Python Version:
 
 
 Link to python collab file : For any difficulties faced here is the collab file link : https://colab.research.google.com/drive/1Sa85EYCcs7PntrMA8f4bpecREqt4AI51?usp=sharing
-Results :
+  
+  Results :
 
 When given an input like:
 
