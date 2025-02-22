@@ -60,6 +60,8 @@ The top 5 recommended movies are:
 📖 Two full-length feature horror movies written by Quentin Tarantino and Robert Rodriguez put together as a two-film feature...
 🎭 Genres: Thriller Action Horror
 
+Salary Expectations (monthly) : [1750$ - 1950$]
+
 ## 🎥 Demo Video
 
 [Click here to watch the demo](https://drive.google.com/file/d/19qVXPZkqqge-E40Wn67HKzAqSj1e7Xvf/view)
